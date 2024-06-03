@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <weapons>
+  <weapon id="1">
+   <name>
+	Puños
+   <name/>
+   <type value="1"/>
+   <leve value="5"/>
+   <damage>
+	10
+   </damage>
+   <weight value"0.25"/>
+   <critical value"5"/>
+
+  <weapon id="2">
+   <name>
+    SPAS-12
+   <name/>
+   <type value="2"/>
+   <leve value="50"/>
+   <damage>
+    80
+   </damage>
+   <weight value"2"/>
+   <critical value"10"/>
+
+  <weapon id="3">
+   <name>
+    Extensible
+   <name/>
+   <type value="2"/>
+   <leve value="25"/>
+   <damage>
+    20
+   </damage>
+   <weight value"0.5"/>
+   <critical value"6"/>
+
+  <weapon id="4">
+   <name>
+    Taser
+   <name/>
+   <type value="2"/>
+   <leve value="45"/>
+   <damage> 
+    70
+   </damage>
+   <weight value"1.5"/>
+   <critical value"8"/>
+
+  <weapon id="5">
+   <name>
+    Katana
+   <name/>
+   <type value="1"/> 
+   <leve value="90"/> 
+   <damage>
+    90
+   </damage>
+   <weight value"2.5"/>
+   <critical value"10"/>
+
